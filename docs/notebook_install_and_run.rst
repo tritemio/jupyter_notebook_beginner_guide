@@ -20,9 +20,8 @@ the Anaconda distribution created by Continuum.
 
 - Install it using the default settings for a single user.
 
-The next sections we describe how to configure the Jupyter Notebook application,
-how to install FRETBursts, and how to run the tutorial using the Jupyter
-Notebook application.
+The next sections we describe how to use the Jupyter Notebook application
+to open and run notebooks.
 
 Jupyter Notebook
 ----------------
@@ -32,7 +31,7 @@ browser (see :ref:`what_is_jupyther`).
 For our purposes, Jupyter Notebook is run locally like a normal desktop
 application and does not require accessing any remote server.
 
-The notebook files (for example the FRETBursts tutorials) are text documents
+The "notebooks" are text documents
 produced by the Jupyter Notebook application that contains both code and
 and rich text (paragraph, equations, figures, links, etc...).
 Notebooks are both human-readable documents containing the analysis
@@ -49,18 +48,18 @@ a terminal (*cmd* on Windows)::
    ipython notebok
 
 This will launch a new browser window (or a new tab) showing the
-Notebook Dashboard, a sort of control panel that allows (among other things)
-to select which notebook to open.
+Notebook Dashboard, a sort of control panel that allows
+to select which notebook to open (among other things).
 
 When started, Jupyter Notebook can access only files within its start-up folder
 (including any sub-folder). If you store the notebooks in a subfolder
 of your user folder no configuration is necessary.
 
-Otherwise, you need to choose a folder which will contains all the notebooks
-and set this as the Jupyter Notebook start-up folder.
+Otherwise, you need start Jupyter Notebook in a folder which contains
+all the notebooks.
 
 See below for platform-specific instructions on how to start Jupyter Notebook
-in a specific folder.
+in a folder different from the default user/home folder.
 
 Change Jupyter Notebook startup folder (Windows)
 ''''''''''''''''''''''''''''''''''''''''''''''''
