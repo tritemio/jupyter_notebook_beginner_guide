@@ -86,13 +86,13 @@ notebook folder (or a sub-folder of it).
 
 Then follow these steps:
 
-- Launch the Jupyter Notebook like explained in the previous section.
+- Launch the Jupyter Notebook (see previous section).
 
-- In the new Jupyter Notebook Dashboard navigate the files and find the notebook.
-  Clicking on the notebook name, will open it in a new browser tab.
+- In the new Jupyter Notebook Dashboard navigate to find the notebook:
+  clicking on its name will open it in a new browser tab.
 
-- Click on the menu *Help -> User Interface Tour* to get acquitted with
-  the Jupyter Notebook environment.
+- Click on the menu *Help -> User Interface Tour* for an overview
+  of the Notebook environment.
 
 - You can run the notebooks step-by-step (one cell a time) by hitting
   *shift + enter*.
@@ -126,5 +126,8 @@ Then follow these steps:
     To be safe, make sure you open each notebook in only one tab.
     If by mistake you open a notebook twice in two tabs, please close one tab.
 
-Please refer to the `Jupyter Notebook documentation <http://ipython.org/notebook.html>`_
-for more information on how to use the Jupyter Notebook environment.
+More info on using the Notebook environment:
+
+- `Jupyter Notebook documentation <http://ipython.org/notebook.html>`_
+
+- `What is the IPython Notebook? <http://nbviewer.ipython.org/github/jupyter/strata-sv-2015-tutorial/blob/master/00%20-%20Introduction.ipynb>`__
