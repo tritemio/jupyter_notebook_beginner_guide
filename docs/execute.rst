@@ -1,65 +1,28 @@
-.. _absolute_beginner:
-
-Getting started for the absolute python beginner
-================================================
-
-In this section you will find a step-by-step guide on how to install
-the Jypyter/IPython Notebook application, and on how to open and run
-notebooks.
-
-The step "zero" is installing a modern standard-compliant browser. Either
-Mozilla Firefox or Google Chrome will work well. Please try to avoid
-MS Explorer.
-
-The step "one" is installing a scientific python distribution
-that includes all the dependencies, in this guide we will use
-the Anaconda distribution created by Continuum.
-
-- Download `Continuum Anaconda <https://store.continuum.io/cshop/anaconda/>`_
-  (free version), python 2.7, 64 bits.
-
-- Install it using the default settings for a single user.
-
-The next sections we describe how to use the Jupyter Notebook application
-to open and run notebooks.
-
-Jupyter Notebook
-----------------
-
-Jupyter Notebook (formerly IPython) is an application that runs inside your
-browser (see :ref:`what_is_jupyther`).
-For our purposes, Jupyter Notebook is run locally like a normal desktop
-application and does not require accessing any remote server.
-
-The "notebooks" are text documents
-produced by the Jupyter Notebook application that contains both code and
-and rich text (paragraph, equations, figures, links, etc...).
-Notebooks are both human-readable documents containing the analysis
-description and the results (figures, tables, etc..) and executable documents
-that can be run to perform a data analysis (for more info see :ref:`what_is_jupyther`).
+Running the Jupyter Notebook
+=============================
 
 Launching Jupyter Notebook
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------
 
 The Jupyter Notebook App can be launched by clicking on the IPython Notebook
 icon installed by Anaconda in the start menu (Windows) or by typing in
 a terminal (*cmd* on Windows)::
 
-   ipython notebok
+   ipython notebook
 
 This will launch a new browser window (or a new tab) showing the
-Notebook Dashboard, a sort of control panel that allows
-to select which notebook to open (among other things).
+Notebook Dashboard, a sort of control panel that allows (among other things)
+to select which notebook to open.
 
 When started, Jupyter Notebook can access only files within its start-up folder
 (including any sub-folder). If you store the notebooks in a subfolder
 of your user folder no configuration is necessary.
 
-Otherwise, you need start Jupyter Notebook in a folder which contains
-all the notebooks.
+Otherwise, you need to choose a folder which will contains all the notebooks
+and set this as the Jupyter Notebook start-up folder.
 
 See below for platform-specific instructions on how to start Jupyter Notebook
-in a folder different from the default user/home folder.
+in a specific folder.
 
 Change Jupyter Notebook startup folder (Windows)
 ''''''''''''''''''''''''''''''''''''''''''''''''
@@ -91,7 +54,7 @@ To launch Jupyter Notebook:
 
 
 Shutting down Jupyter Notebook
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------
 
 In a nutshell, closing the browser (or the tab) will not close the
 Jupyter Notebook application. To completely shut down Jupyter Notebook

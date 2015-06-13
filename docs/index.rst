@@ -22,6 +22,6 @@ Contents:
    :maxdepth: 2
 
    what_is_jupyter
-   notebook_install_and_run
-
+   install
+   execute
 
