@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Jupyter/IPython Notebook Quick Start Guide
-=====================================================
+Jupyter/IPython Notebook Quick Start Guide
+==========================================
 
 This document aims to be brief guide on installing and runnning
 Jupyter (IPython) notebooks for new users that have no familiarity with python.
