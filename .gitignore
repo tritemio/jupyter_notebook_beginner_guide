@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+docs/html/*
+docs/_build/*
+
