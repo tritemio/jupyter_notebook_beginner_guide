@@ -1,4 +1,6 @@
-# jupyter_notebook_beginner_guide
+# Jupyter/IPython Notebook Quick Start Guide
 
 A quick-start guide to install and run Jupyter/IPython notebooks
-for absolute beginners.
+for absolute (python) beginners.
+
+[Read online](http://jupyter-notebook-beginner-guide.readthedocs.org/).
