@@ -27,8 +27,6 @@ in a specific folder.
 Change Jupyter Notebook startup folder (Windows)
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
-- Choose a folder that will contain all your notebooks.
-
 - Copy the IPython Notebook launcher from the menu to the desktop.
 
 - Right click on the new launcher and change the "Start in" field by pasting
