@@ -3,15 +3,15 @@
 What is Jupyter Notebook
 ========================
 
-Jupyter Notebook (formerly IPython) is an application that runs inside your
+**Jupyter Notebook App** (formerly **IPython Notebook**) is an application that runs inside your
 browser.
-For our purposes, Jupyter Notebook is run locally like a normal desktop
+For our purposes, *Jupyter Notebook App* is run locally like a normal desktop
 application and does not require accessing any remote server.
 
-What we call the "notebooks" are text documents
-produced by the Jupyter Notebook application that contains both code and
+What we call the "notebooks" (lowecase) are text documents
+produced by the *Jupyter Notebook App* that contains both code and
 and rich text (paragraph, equations, figures, links, etc...).
-Notebooks are both human-readable documents containing the analysis
+Notebooks documents are both human-readable documents containing the analysis
 description and the results (figures, tables, etc..) and executable documents
 that can be run to perform a data analysis.
 
