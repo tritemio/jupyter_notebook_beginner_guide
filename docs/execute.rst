@@ -33,7 +33,7 @@ Change Jupyter Notebook startup folder (Windows)
   the folder previously chosen.
 
 - Double-click on the *IPython Notebook* launcher to start the
-  *Jupyter Notebook App*, which will open a new browser window (or tab).
+  *Jupyter Notebook App*, which will open in a new browser window (or tab).
   Note also that a secondary terminal window (used only for error logging and  
   for shut down) will be also opened.
 
@@ -45,17 +45,17 @@ To launch *Jupyter Notebook App*:
 
 - Click on spotlight, type ``terminal`` to open a terminal window.
 
-- Enter the startup folder by typing ``cd /some_folder_name``
+- Enter the startup folder by typing ``cd /some_folder_name``.
 
-- Type ``ipython notebook``. This will open a new window in your
-  default browser showing the content of your home folder.
+- Type ``ipython notebook`` to launch the *Jupyter Notebook App*
+  (it will appear in a new browser window or tab).
 
 
 Shutting down the Jupyter Notebook App
 ------------------------------
 
-In a nutshell, closing the browser (or the tab) will not close the
-*Jupyter Notebook App*. To shut it down you need to close the associated terminal.
+In a nutshell, closing the browser (or the tab) **will not close** the
+*Jupyter Notebook App*. To shut it down you need to **close the associated terminal**.
 
 More in details,
 the *Jupyter Notebook App* is a server that appears in your browser
@@ -71,7 +71,7 @@ the notebook kernels or open new notebooks.
 You can run many copies of the *Jupyter Notebook App* and they will show
 up at a similar address (only the number after ":", which is the port, will increment for each new copy).
 
-Since from a single *Jupyter Notebook App* you can open on as many notebooks as you like, we do not recommend running multiple copies of *Jupyter Notebook App*.
+Since with a single *Jupyter Notebook App* you can open as many notebooks as you like, we do not recommend running multiple copies of *Jupyter Notebook App*.
 
 Running a notebook
 ------------------
