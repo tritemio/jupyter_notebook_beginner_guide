@@ -42,7 +42,7 @@ and does not require any internet access.
 In addition to displaying/editing/running notebook documents, 
 the *Jupyter Notebook App* has a "Dashboard" (:ref:`dashboard`)
 that is a sort of control panel showing local files and allowing to
-open notebook documents or shut-downing their :ref:`*kernels* <kernel>`.
+open notebook documents or shut-downing their :ref:`kernels <kernel>`.
 
 
 .. _kernel:
