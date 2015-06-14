@@ -40,8 +40,8 @@ operating on notebook documents (open, close, run, etc...).
 In this guide the *Jupyter Notebook App* is run on a local desktop 
 and does not require any internet access.
 In addition to displaying/editing/running notebook documents, 
-the *Jupyter Notebook App* has a "Dashboard" (:ref:`dashboard`)
-that is a sort of control panel showing local files and allowing to
+the *Jupyter Notebook App* has a "Dashboard" (:ref:`dashboard`),
+a "control panel" showing local files and allowing to
 open notebook documents or shut-downing their :ref:`kernels <kernel>`.
 
 
@@ -77,7 +77,7 @@ The *Notebook Dashboard* is the component of the *Jupyter Notebook App* that is
 first shown when the :ref:`notebook_app` is launched.
 
 Mainly, the *Notebook Dashboard* is used to open notebook documents, and to manage
-the running kernels (visualize and shutdown).
+the running :ref:`kernels <kernel>` (visualize and shutdown).
 
 The *Notebook Dashboard* has other features similar to a file manager, namely
 navigating folders and renaming/deleting files.
