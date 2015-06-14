@@ -42,7 +42,7 @@ and does not require any internet access.
 In addition to displaying/editing/running notebook documents, 
 the *Jupyter Notebook App* has a "Dashboard" (:ref:`dashboard`),
 a "control panel" showing local files and allowing to
-open notebook documents or shut-downing their :ref:`kernels <kernel>`.
+open notebook documents or shuting down their :ref:`kernels <kernel>`.
 
 
 .. _kernel:
@@ -50,7 +50,7 @@ open notebook documents or shut-downing their :ref:`kernels <kernel>`.
 *kernel*
 ~~~~~~~~
 
-A notebook kernel, or simply a *kernel*, is a "computational engine"
+A notebook *kernel* is a "computational engine"
 that executes the code contained in a notebook document.
 In this guide we always refer to a specific kernel called *ipython kernel* 
 that executes python code. 
