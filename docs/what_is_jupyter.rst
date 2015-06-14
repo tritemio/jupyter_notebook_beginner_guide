@@ -76,8 +76,8 @@ highlights notebooks with running kernels and allows to shut them dowm.
 The *Notebook Dashboard* is the component of the *Jupyter Notebook App* that is
 first shown when the :ref:`notebook_app` is launched.
 
-Mainly, the *Notebook Dashboard* is used to open notebook documents, and manage
-the running kernels (visulaize and shutdown).
+Mainly, the *Notebook Dashboard* is used to open notebook documents, and to manage
+the running kernels (visualize and shutdown).
 
 The *Notebook Dashboard* has other features similar to a file manager, namely
 navigating folders and renaming/deleting files.
