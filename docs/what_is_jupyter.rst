@@ -61,10 +61,10 @@ When opening a notebook document the associated *kernel* is automatically launch
 When the notebook is *executed* (either cell-by-cell or with menu *Cell -> Run All*)
 the *kernel* performs the computation and produces the results.
 Depending on the type of computations, the *kernel* may consume significant
-CPU and RAM. Note that the RAM is not released until the kernel is shut-down.
+CPU and RAM. Note that the RAM is not released until the *kernel* is shut-down.
 
 To shut-down the kernel **is not sufficient to close the tab** where the notebook is.
-You have to use the menu *File -> Close and Halt*. Alternatively, the *Notebook Dashboard*
+You have to use the menu *File -> Close and Halt*. Alternatively, the :ref:`dashboard`
 highlights notebooks with running kernels and allows to shut them dowm.
 
 
