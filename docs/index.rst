@@ -19,9 +19,12 @@ documentation.
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :numbered:
 
    what_is_jupyter
    install
    execute
+   
+Clicking on the *Next* button will send you to the first item in the tables of content (*What is Jupyter Notebook*).
 
