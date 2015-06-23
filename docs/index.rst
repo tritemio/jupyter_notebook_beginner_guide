@@ -16,7 +16,8 @@ The aim is to give a brief step-by-step guide with links to more complete
 documentation.
 
 
-Contents:
+Contents
+--------
 
 .. toctree::
    :maxdepth: 1
@@ -26,5 +27,5 @@ Contents:
    install
    execute
    
-Clicking on the *Next* button will send you to the first item in the tables of content (*What is Jupyter Notebook*).
+The *Next* button will bring you to the first item in the tables of content (*What is Jupyter Notebook*).
 
