@@ -32,12 +32,18 @@ Change Jupyter Notebook startup folder (Windows)
 - Copy the *IPython Notebook* launcher from the menu to the desktop.
 
 - Right click on the new launcher and change the "Start in" field by pasting
-  the folder previously chosen.
+  the full path of the folder which will contains all the notebooks.
 
-- Double-click on the *IPython Notebook* launcher to start the
+- Double-click on the *IPython Notebook* desktop launcher (icon shows [IPy]) to start the
   :ref:`notebook_app`, which will open in a new browser window (or tab).
   Note also that a secondary terminal window (used only for error logging and  
   for shut down) will be also opened.
+  If only the terminal starts, open this address with your browser:
+  |localhost|
+  
+.. |localhost| raw:: html
+
+   <a href="http://localhost:8888/" target="_blank">http://localhost:8888/</a>
 
 
 Change Jupyter Notebook startup folder (OSX)
@@ -91,7 +97,7 @@ Then follow these steps:
 - Click on the menu *Help -> User Interface Tour* for an overview
   of the :ref:`notebook_app` user interface.
 
-- You can run the notebook document step-by-step (one cell a time) by hitting
+- You can run the notebook document step-by-step (one cell a time) by pressing
   *shift + enter*.
 
 - You can run the whole notebook in a single step by clicking on the menu
