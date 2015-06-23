@@ -38,8 +38,8 @@ Change Jupyter Notebook startup folder (Windows)
   :ref:`notebook_app`, which will open in a new browser window (or tab).
   Note also that a secondary terminal window (used only for error logging and  
   for shut down) will be also opened.
-  If only the terminal starts, open this address with your browser:
-  |localhost|
+  If only the terminal starts, try opening this address with your browser:
+  |localhost|.
   
 .. |localhost| raw:: html
 
