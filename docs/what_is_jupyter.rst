@@ -84,4 +84,4 @@ navigating folders and renaming/deleting files.
 
 ....
 
-Click on *Next* to go to the next section (*Installation*).
+The *Next* button will bring you to the next section (*Installation*).
