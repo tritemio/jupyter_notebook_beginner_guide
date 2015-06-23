@@ -21,3 +21,7 @@ Note that Anaconda currently (mid 2015) still uses the old name
   (free version), python 2.7, 64 bits.
 
 - Install it using the default settings for a single user.
+
+....
+
+The *Next* button will bring you to the next section (*Running Jupyter Notebook*).
