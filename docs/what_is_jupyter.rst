@@ -3,27 +3,26 @@
 What is Jupyter Notebook
 ========================
 
-**Jupyter Notebook App** (formerly **IPython Notebook**) is an application that runs inside your
+**Jupyter Notebook App** (formerly **IPython Notebook**) is an application which runs inside your
 browser.
-For our purposes, *Jupyter Notebook App* is run locally like a normal desktop
+However, *Jupyter Notebook App* is run locally like a normal desktop
 application and does not require accessing any remote server.
 
-What we call the "notebooks" (lowecase) are text documents
-produced by the *Jupyter Notebook App* that contains both code and
-and rich text (paragraph, equations, figures, links, etc...).
-Notebooks documents are both human-readable documents containing the analysis
-description and the results (figures, tables, etc..) and executable documents
-that can be run to perform a data analysis.
+"notebooks" (all lower case) are text documents
+produced by the *Jupyter Notebook App* which contain both python code and rich text format elements (paragraph, equations, figures, links, etc...).
+Notebook documents are both human-readable documents containing the analysis
+description and the results (figures, tables, etc..) as well as executable documents
+which can be run to perform data analysis.
 
 Links
 -----
 
-Official Pages:
+Official Pages (this sites are not related with Photon-HDF5):
 
 - `Project Jupyter <https://jupyter.org/>`__
 - `IPython Notebook Homepage <http://ipython.org/notebook.html>`__
 
-Another a bit more in-depth (but slightly outdated) introduction:
+Some more in-depth (but slightly outdated) introduction:
 
 - `What is the IPython Notebook? <http://nbviewer.ipython.org/github/jupyter/strata-sv-2015-tutorial/blob/master/00%20-%20Introduction.ipynb>`__
 
