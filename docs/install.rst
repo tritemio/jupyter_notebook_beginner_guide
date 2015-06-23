@@ -4,16 +4,16 @@ Installation
 Step 0: The browser
 -------------------
 
-The step "zero" is installing a modern standard-compliant browser. Either
-Mozilla Firefox or Google Chrome will work well. Please try to avoid
+Step "zero" consists in installing a modern standard-compliant browser. Either
+Mozilla Firefox or Google Chrome will work well. Try to avoid
 MS Explorer.
 
 Step 1: Installation
 --------------------
 
-The easiest way to install the *Jupyter Notebook App* is
-installing a scientific python distribution that bundles it.
-In this guide we will use the Anaconda distribution created by Continuum.
+The easiest way to install the *Jupyter Notebook App* consists in
+installing a scientific python distribution which includes it.
+In this guide, we will use the Anaconda distribution created by Continuum.
 Note that Anaconda currently (mid 2015) still uses the old name
 *IPython Notebook* instead of *Jupyter Notebook App* but the software is the same.
 
