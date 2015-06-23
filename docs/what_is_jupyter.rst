@@ -82,4 +82,5 @@ the running :ref:`kernels <kernel>` (visualize and shutdown).
 The *Notebook Dashboard* has other features similar to a file manager, namely
 navigating folders and renaming/deleting files.
 
-
+<hr>
+Click on *Next* to go to the next section (*Installation*).
