@@ -37,12 +37,12 @@ Quick Glossary
 
 The *Jupyter Notebook App* is a server application that allows 
 operating on notebook documents (open, close, run, etc...).
-In this guide the *Jupyter Notebook App* is run on a local desktop 
+In this guide, the *Jupyter Notebook App* is run on a local desktop 
 and does not require any internet access.
 In addition to displaying/editing/running notebook documents, 
 the *Jupyter Notebook App* has a "Dashboard" (:ref:`dashboard`),
 a "control panel" showing local files and allowing to
-open notebook documents or shuting down their :ref:`kernels <kernel>`.
+open notebook documents or shutting down their :ref:`kernels <kernel>`.
 
 
 .. _kernel:
@@ -52,20 +52,20 @@ open notebook documents or shuting down their :ref:`kernels <kernel>`.
 
 A notebook *kernel* is a "computational engine"
 that executes the code contained in a notebook document.
-In this guide we always refer to a specific kernel called *ipython kernel* 
-that executes python code. 
-Kernels for many other languages exists, the *ipython kernel* is the one
+In this guide, we always refer to a specific kernel called *ipython kernel* 
+which executes python code. 
+Kernels for many other languages exists; the *ipython kernel* is the one
 for the python language.
 
-When opening a notebook document the associated *kernel* is automatically launched.
-When the notebook is *executed* (either cell-by-cell or with menu *Cell -> Run All*)
+When opening a notebook document, the associated *kernel* is automatically launched.
+When the notebook is *executed* (either cell-by-cell or with menu *Cell -> Run All*),
 the *kernel* performs the computation and produces the results.
 Depending on the type of computations, the *kernel* may consume significant
 CPU and RAM. Note that the RAM is not released until the *kernel* is shut-down.
 
-To shut-down the kernel **is not sufficient to close the tab** where the notebook is.
+To shut-down the kernel, it **is not sufficient to close the tab** in which the notebook is.
 You have to use the menu *File -> Close and Halt*. Alternatively, the :ref:`dashboard`
-highlights notebooks with running kernels and allows to shut them dowm.
+highlights notebooks with running kernels and allows to shut them down.
 
 
 .. _dashboard:
@@ -73,10 +73,9 @@ highlights notebooks with running kernels and allows to shut them dowm.
 *Notebook Dashboard*
 ~~~~~~~~~~~~~~~~~~~~
 
-The *Notebook Dashboard* is the component of the *Jupyter Notebook App* that is
-first shown when the :ref:`notebook_app` is launched.
+The *Notebook Dashboard* is the component of the *Jupyter Notebook App* which is shown first when the :ref:`notebook_app` is launched.
 
-Mainly, the *Notebook Dashboard* is used to open notebook documents, and to manage
+The *Notebook Dashboard* is mainly used to open notebook documents, and to manage
 the running :ref:`kernels <kernel>` (visualize and shutdown).
 
 The *Notebook Dashboard* has other features similar to a file manager, namely
