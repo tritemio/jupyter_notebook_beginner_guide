@@ -109,14 +109,14 @@ Then follow these steps:
 
 .. note::
 
-    Modifications to the notebooks are automatically saved every
+    **Save notebooks**: modifications to the notebooks are automatically saved every
     few minutes. To avoid modifying the original notebook, make a 
     copy of the notebook document (menu *File -> Make a copy ...*) and 
     save the modifications on the copy.
 
 .. note::
 
-    Closing the browser will not shut down the :ref:`kernel`.
+    **Close notebooks**: Closing the browser will not shut down the :ref:`kernel`.
     The notebook document can be reopened and it will be still running.
     To "close the notebook document" and "shut-down the kernel" use the menu
     *File -> Close and Halt*. A this point the notebook and its computational
