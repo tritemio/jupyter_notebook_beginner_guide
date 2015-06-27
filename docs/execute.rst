@@ -104,27 +104,29 @@ Then follow these steps:
   *Cell -> Run All*.
 
 - To restart the :ref:`kernel` (i.e. the computational engine), click on the menu
-  *Kernel -> Restart*.
+  *Kernel -> Restart*. This can be useful to start over a computation from
+  scratch (e.g. variables are deleted, open files are closed, etc...).
 
 .. note::
 
     Modifications to the notebooks are automatically saved every
-    few minutes. It is suggested that you make a copy of the
-    original notebook document (menu *File -> Make a copy ...*) and make
-    modifications on the copy.
+    few minutes. To avoid modifying the original notebook, make a 
+    copy of the notebook document (menu *File -> Make a copy ...*) and 
+    save the modifications on the copy.
 
 .. note::
 
     Closing the browser will not shut down the :ref:`kernel`.
     The notebook document can be reopened and it will be still running.
     To "close the notebook document" and "shut-down the kernel" use the menu
-    *File -> Close and Halt*. A this point the notebook is closed,
+    *File -> Close and Halt*. A this point the notebook and its computational
+    kernel are shutted down. The
     :ref:`notebook_app` is still running and can open new notebooks.
 
 .. warning::
 
-    Please pay attention that if you open the **same** notebook document on many
-    tabs and do edits, the edits on different tabs can overwrite each other!
+    Pay attention at opening the **same** notebook document 
+    on **many tabs**: the edits on different tabs can overwrite each other!
     To be safe, make sure you open each notebook document in only one tab.
     If, by mistake, you open a notebook twice in two tabs, just close one tab.
 
