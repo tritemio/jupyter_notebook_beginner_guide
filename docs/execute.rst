@@ -126,9 +126,10 @@ Then follow these steps:
 .. warning::
 
     Pay attention at opening the **same** notebook document 
-    on **many tabs**: the edits on different tabs can overwrite each other!
+    on **many tabs**: edits on different tabs can overwrite each other!
     To be safe, make sure you open each notebook document in only one tab.
-    If, by mistake, you open a notebook twice in two tabs, just close one tab.
+    If you accidentally open a notebook twice in two different tabs, just 
+    close one of the tabs.
 
 More info on using the :ref:`notebook_app` environment:
 
