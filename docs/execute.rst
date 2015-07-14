@@ -69,17 +69,19 @@ More in details,
 the :ref:`notebook_app` is a server that appears in your browser
 at a default address (*http://localhost:8888*).
 Closing the browser will not shut down the server.
-You can reopen the previous address (just start typing *localhost* in the
-browser address bar) and the :ref:`notebook_app` will be redisplayed.
+You can reopen the previous address
+and the :ref:`notebook_app` will be redisplayed.
 In addition, each notebook has an "execution engine" (called the :ref:`kernel`)
 that is started when the notebook is opened. 
-The :ref:`dashboard` allows to shut-down
-the notebook :ref:`kernels <kernel>` or open new notebooks.
+The :ref:`dashboard` allows shutting-down
+notebook :ref:`kernels <kernel>` or opening new notebooks.
 
 You can run many copies of the :ref:`notebook_app` and they will show
-up at a similar address (only the number after ":", which is the port, will increment for each new copy).
+up at a similar address (only the number after ":", which is the port, 
+will increment for each new copy).
 
-Since with a single :ref:`notebook_app` you can open as many notebooks as you like, we do not recommend running multiple copies of :ref:`notebook_app`.
+Since with a single :ref:`notebook_app` you can already open many notebooks, 
+we do not recommend running multiple copies of :ref:`notebook_app`.
 
 Running a notebook
 ------------------
