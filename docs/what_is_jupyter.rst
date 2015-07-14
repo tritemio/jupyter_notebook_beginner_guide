@@ -7,6 +7,8 @@ What is Jupyter Notebook
 In this page briefly introduce the main componets of the *Jupyter Notebook* 
 environment.
 
+.. contents::
+
 .. _notebook_document:
 
 Notebook document
