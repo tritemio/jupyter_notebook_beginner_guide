@@ -70,7 +70,6 @@ Notebook Dashboard
 
 The *Notebook Dashboard* is the component which 
 is shown first when the launching :ref:`notebook_app`.
-
 The *Notebook Dashboard* is mainly used to open notebook documents, and to manage
 the running :ref:`kernels <kernel>` (visualize and shutdown).
 
