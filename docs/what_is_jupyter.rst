@@ -13,7 +13,7 @@ Notebook document
 -----------------
 
 Notebook documents (or "notebooks", all lower case) are text documents
-produced by the *Jupyter Notebook App* which contain both computer code (e.g. python) 
+produced by the :ref:`notebook_app` which contain both computer code (e.g. python) 
 and rich text format elements (paragraph, equations, figures, links, etc...).
 Notebook documents are both human-readable documents containing the analysis
 description and the results (figures, tables, etc..) as well as executable documents
