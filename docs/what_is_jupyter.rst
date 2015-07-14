@@ -12,9 +12,9 @@ environment.
 Notebook document
 -----------------
 
-Notebook documents (or "notebooks", all lower case) are text documents
+Notebook documents (or "notebooks", all lower case) are documents
 produced by the :ref:`notebook_app` which contain both computer code (e.g. python) 
-and rich text format elements (paragraph, equations, figures, links, etc...).
+and rich text elements (paragraph, equations, figures, links, etc...).
 Notebook documents are both human-readable documents containing the analysis
 description and the results (figures, tables, etc..) as well as executable documents
 which can be run to perform data analysis.
@@ -28,9 +28,9 @@ Jupyter Notebook App
 --------------------
 
 The *Jupyter Notebook App* is a server-client application that allows 
-operating on :ref:`notebook documents <notebook_document>` (open, 
-close, run, etc...) via a web browser.
-The *Jupyter Notebook App* can be run on a local desktop 
+editing and running :ref:`notebook documents <notebook_document>`
+via a web browser.
+The *Jupyter Notebook App* can be executed on a local desktop 
 requiring no internet access (like described in this document)
 or installed on a remote server and accessed through the internet.
 
