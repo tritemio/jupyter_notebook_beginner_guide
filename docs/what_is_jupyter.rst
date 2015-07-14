@@ -47,8 +47,7 @@ kernel
 
 A notebook *kernel* is a "computational engine"
 that executes the code contained in a :ref:`notebook_document`.
-In this guide, we refer to a specific kernel called *ipython kernel* 
-which executes python code. 
+The *ipython kernel*, referenced in this guide, executes python code. 
 Kernels for many other languages exists 
 (`official kernels <http://jupyter.readthedocs.org/en/latest/#kernels>`__).
 
