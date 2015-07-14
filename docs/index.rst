@@ -6,14 +6,18 @@
 Jupyter/IPython Notebook Quick Start Guide
 ==========================================
 
-This document aims to be a brief guide on installing and running
+This document aims to be a brief step-by-step guide on installing and running
 Jupyter (IPython) notebooks for new users who have no familiarity with python.
 
-If someone gave you a notebook to run and you don't know what
+Briefly, if someone gave you a notebook to run and you don't know what
 a notebook is, this document is for you.
 
-The aim is to give a brief step-by-step guide with links to more complete
-documentation.
+**Jupyter Notebook App** (formerly **IPython Notebook**) is 
+an application which runs inside your browser.
+This guide describes how to install and use *Jupyter Notebook App* 
+as normal desktop application, without using any remote server.
+
+For other use-cases, please refer to the `Official Jupyter Documentation <http://jupyter.readthedocs.org/>`__.
 
 
 Contents
