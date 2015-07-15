@@ -137,8 +137,4 @@ Then follow these steps:
     If you accidentally open a notebook twice in two different tabs, just 
     close one of the tabs.
 
-More info on using the :ref:`notebook_app` environment:
-
-- `Jupyter Notebook documentation <http://ipython.org/notebook.html>`_
-
-- `What is the IPython Notebook? <http://nbviewer.ipython.org/github/jupyter/strata-sv-2015-tutorial/blob/master/00%20-%20Introduction.ipynb>`__
+More info on the :ref:`notebook_app` environment see :ref:`references`.
