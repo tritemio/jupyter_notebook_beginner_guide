@@ -5,7 +5,7 @@ What is Jupyter Notebook
 
 
 In this page briefly introduce the main componets of the *Jupyter Notebook* 
-environment.
+environment. For a more complete overview see :ref:`references`.
 
 .. contents::
 
@@ -21,8 +21,7 @@ Notebook documents are both human-readable documents containing the analysis
 description and the results (figures, tables, etc..) as well as executable documents
 which can be run to perform data analysis.
 
-For a more complete overview see `IPython Notebook Homepage <http://ipython.org/notebook.html>`__.
-
+- **References**: Notebook documents `in the project homepage <http://ipython.org/notebook.html#notebook-documents>`__ and `in the official docs <http://ipython.org/ipython-doc/stable/notebook/notebook.html#notebook-documents>`__
 
 .. _notebook_app:
 
@@ -40,6 +39,10 @@ In addition to displaying/editing/running notebook documents,
 the *Jupyter Notebook App* has a "Dashboard" (:ref:`dashboard`),
 a "control panel" showing local files and allowing to
 open notebook documents or shutting down their :ref:`kernels <kernel>`.
+
+- **References**: Jupyter Notebook App 
+  `in the project homepage <http://ipython.org/notebook.html>`__ and
+  `in the official docs <http://ipython.org/ipython-doc/stable/notebook/notebook.html#htmlnotebook>`__.
 
 
 .. _kernel:
@@ -61,6 +64,10 @@ CPU and RAM. Note that the RAM is not released until the *kernel* is shut-down.
 
 See also :ref:`kernel_shutdown`.
 
+- **References**: from the official docs
+  `Opening Notebooks <http://ipython.org/ipython-doc/stable/notebook/notebook.html#opening-notebooks>`__ and 
+  `Decoupled two-process model <http://ipython.org/ipython-doc/stable/overview.html#ipythonzmq>`__.
+
 .. _dashboard:
 
 Notebook Dashboard
@@ -73,6 +80,9 @@ and to manage the running :ref:`kernels <kernel>` (visualize and shutdown).
 
 The *Notebook Dashboard* has other features similar to a file manager, namely
 navigating folders and renaming/deleting files.
+
+- **References**: from the official docs
+  `Opening Notebooks <http://ipython.org/ipython-doc/stable/notebook/notebook.html#opening-notebooks>`__.
 
 .. _references:
 
