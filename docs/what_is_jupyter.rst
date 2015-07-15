@@ -59,10 +59,7 @@ the *kernel* performs the computation and produces the results.
 Depending on the type of computations, the *kernel* may consume significant
 CPU and RAM. Note that the RAM is not released until the *kernel* is shut-down.
 
-To shut-down the kernel, it **is not sufficient to close the tab** in which the notebook is.
-You have to use the menu *File -> Close and Halt*. Alternatively, the :ref:`dashboard`
-highlights notebooks with running kernels and allows to shut them down.
-
+See also :ref:`kernel_shutdown`.
 
 .. _dashboard:
 
