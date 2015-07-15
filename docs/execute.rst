@@ -59,11 +59,12 @@ To launch :ref:`notebook_app`:
   (it will appear in a new browser window or tab).
 
 
-Shutting down: *Jupyter Notebook App* and *kernels*
----------------------------------------------------
+Shutting down the *Jupyter Notebook App*
+----------------------------------------
 
 In a nutshell, closing the browser (or the tab) **will not close** the
-:ref:`notebook_app`. To shut it down you need to **close the associated terminal**.
+:ref:`notebook_app`. To completely shut it down you need to 
+**close the associated terminal**.
 
 More in details,
 the :ref:`notebook_app` is a server that appears in your browser
@@ -71,10 +72,6 @@ at a default address (*http://localhost:8888*).
 Closing the browser will not shut down the server.
 You can reopen the previous address
 and the :ref:`notebook_app` will be redisplayed.
-In addition, each notebook has an "execution engine" (called the :ref:`kernel`)
-that is started when the notebook is opened. 
-The :ref:`dashboard` allows shutting-down
-notebook :ref:`kernels <kernel>` or opening new notebooks.
 
 You can run many copies of the :ref:`notebook_app` and they will show
 up at a similar address (only the number after ":", which is the port, 
@@ -82,6 +79,17 @@ will increment for each new copy).
 
 Since with a single :ref:`notebook_app` you can already open many notebooks, 
 we do not recommend running multiple copies of :ref:`notebook_app`.
+
+Shutting down a *kernel*
+------------------------
+When a notebook is opened, its "computational engine" (called the :ref:`kernel`)
+is automatically started. The kernel will keep running until is explicitly
+shut down.
+
+To shut down a kernel, go to the associated notebook
+and click on menu *File* -> *Close and Halt*. Alternatively, the :ref:`dashboard` 
+has a tab named *Running* that shows all the running notebooks (i.e. kernels)
+and allows shutting them down.
 
 Running a notebook
 ------------------
@@ -122,7 +130,7 @@ Then follow these steps:
     The notebook document can be reopened and it will be still running.
     To "close the notebook document" and "shut-down the kernel" use the menu
     *File -> Close and Halt*. A this point the notebook and its computational
-    kernel are shutted down. The
+    kernel are shut down. The
     :ref:`notebook_app` is still running and can open new notebooks.
 
 .. warning::
