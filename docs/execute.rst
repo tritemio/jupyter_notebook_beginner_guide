@@ -76,7 +76,6 @@ and the :ref:`notebook_app` will be redisplayed.
 You can run many copies of the :ref:`notebook_app` and they will show
 up at a similar address (only the number after ":", which is the port, 
 will increment for each new copy).
-
 Since with a single :ref:`notebook_app` you can already open many notebooks, 
 we do not recommend running multiple copies of :ref:`notebook_app`.
 
