@@ -85,13 +85,14 @@ we do not recommend running multiple copies of :ref:`notebook_app`.
 Shutting down a *kernel*
 ------------------------
 When a notebook is opened, its "computational engine" (called the :ref:`kernel`)
-is automatically started. The kernel will keep running until is explicitly
-shut down.
+is automatically started. 
+Closing the notebook browser tab, will not shut down the :ref:`kernel`, 
+instead the kernel will keep running until is explicitly shut down. 
 
 To shut down a kernel, go to the associated notebook
 and click on menu *File* -> *Close and Halt*. Alternatively, the :ref:`dashboard` 
 has a tab named *Running* that shows all the running notebooks (i.e. kernels)
-and allows shutting them down.
+and allows shutting them down (by clicking on the *Shutdown* button).
 
 Running a notebook
 ------------------
@@ -126,14 +127,6 @@ Then follow these steps:
     copy of the notebook document (menu *File -> Make a copy ...*) and 
     save the modifications on the copy.
 
-.. note::
-
-    **Close notebooks**: Closing the browser will not shut down the :ref:`kernel`.
-    The notebook document can be reopened and it will be still running.
-    To "close the notebook document" and "shut-down the kernel" use the menu
-    *File -> Close and Halt*. A this point the notebook and its computational
-    kernel are shut down. The
-    :ref:`notebook_app` is still running and can open new notebooks.
 
 .. warning::
 
