@@ -59,8 +59,8 @@ To launch :ref:`notebook_app`:
   (it will appear in a new browser window or tab).
 
 
-Shutting down the *Jupyter Notebook App*
-----------------------------------------
+Shut down the *Jupyter Notebook App*
+------------------------------------
 
 In a nutshell, closing the browser (or the tab) **will not close** the
 :ref:`notebook_app`. To completely shut it down you need to 
@@ -80,10 +80,12 @@ will increment for each new copy).
 Since with a single :ref:`notebook_app` you can already open many notebooks, 
 we do not recommend running multiple copies of :ref:`notebook_app`.
 
+
 .. _kernel_shutdown:
 
-Shutting down a *kernel*
-------------------------
+Close a notebook: *kernel* shut down
+------------------------------------
+
 When a notebook is opened, its "computational engine" (called the :ref:`kernel`)
 is automatically started. 
 Closing the notebook browser tab, will not shut down the :ref:`kernel`, 
@@ -92,12 +94,12 @@ instead the kernel will keep running until is explicitly shut down.
 To shut down a kernel, go to the associated notebook
 and click on menu *File* -> *Close and Halt*. Alternatively, the :ref:`dashboard` 
 has a tab named *Running* that shows all the running notebooks (i.e. kernels)
-and allows shutting them down (by clicking on the *Shutdown* button).
+and allows shutting them down (by clicking on a *Shutdown* button).
 
-Running a notebook
-------------------
+Executing a notebook
+--------------------
 
-Download the notebook you wan to execute and put it in your
+Download the notebook you want to execute and put it in your
 notebook folder (or a sub-folder of it).
 
 Then follow these steps:
