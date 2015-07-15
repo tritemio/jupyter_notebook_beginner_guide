@@ -81,8 +81,12 @@ References
 
 Official Jupyter Project Pages:
 
-- `Project Jupyter <https://jupyter.org/>`__
+- `Project Jupyter Homepage <https://jupyter.org/>`__
 - `IPython Notebook Homepage <http://ipython.org/notebook.html>`__
+
+Official Documentation:
+
+- `IPython Notebook Documentation <http://ipython.org/ipython-doc/stable/notebook/index.html>`__
 - `Jupyter Documentation <http://jupyter.readthedocs.org/>`__
 
 A more in-depth (but slightly outdated) introduction on using the *Jupyter Notebook App*:
