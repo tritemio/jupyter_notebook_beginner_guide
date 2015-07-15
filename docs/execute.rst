@@ -80,6 +80,8 @@ will increment for each new copy).
 Since with a single :ref:`notebook_app` you can already open many notebooks, 
 we do not recommend running multiple copies of :ref:`notebook_app`.
 
+.. _kernel_shutdown:
+
 Shutting down a *kernel*
 ------------------------
 When a notebook is opened, its "computational engine" (called the :ref:`kernel`)
