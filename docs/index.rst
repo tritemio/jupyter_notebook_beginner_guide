@@ -13,7 +13,7 @@ Briefly, if someone gave you a notebook to run and you don't know what
 a notebook is, this document is for you.
 
 **Jupyter Notebook App** (formerly **IPython Notebook**) is 
-an application which runs inside your browser.
+an application running inside the browser.
 This guide describes how to install and use *Jupyter Notebook App* 
 as normal desktop application, without using any remote server.
 
