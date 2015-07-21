@@ -99,7 +99,9 @@ Official Documentation:
 - `IPython Notebook Documentation <http://ipython.org/ipython-doc/stable/notebook/index.html>`__
 - `Jupyter Documentation <http://jupyter.readthedocs.org/>`__
 
-A more in-depth (but slightly outdated) introduction on using the *Jupyter Notebook App*:
+Other third-parties introductions on using the *Jupyter Notebook App*:
+
+- `Introducing IPython Notebook <http://opentechschool.github.io/python-data-intro/core/notebook.html>`__
 
 - `What is the IPython Notebook? <http://nbviewer.ipython.org/github/jupyter/strata-sv-2015-tutorial/blob/master/00%20-%20Introduction.ipynb>`__
 
