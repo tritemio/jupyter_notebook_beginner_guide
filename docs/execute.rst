@@ -120,6 +120,11 @@ Then follow these steps:
 - To restart the :ref:`kernel` (i.e. the computational engine), click on the menu
   *Kernel -> Restart*. This can be useful to start over a computation from
   scratch (e.g. variables are deleted, open files are closed, etc...).
+  
+More information on editing a notebook:
+
+- `Notebook Basics <https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Notebook%20Basics.ipynb>`_
+  (or `alternate link <https://github.com/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb>`_)
 
 .. note::
 
