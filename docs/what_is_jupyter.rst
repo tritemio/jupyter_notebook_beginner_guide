@@ -21,7 +21,7 @@ Notebook documents are both human-readable documents containing the analysis
 description and the results (figures, tables, etc..) as well as executable documents
 which can be run to perform data analysis.
 
-**References**: Notebook documents `in the project homepage <http://ipython.org/notebook.html#notebook-documents>`__ and `in the official docs <http://ipython.org/ipython-doc/stable/notebook/notebook.html#notebook-documents>`__.
+**References**: Notebook documents `in the project homepage <http://ipython.org/notebook.html#notebook-documents>`__ and `in the official docs <http://jupyter-notebook.readthedocs.org/en/latest/notebook.html#notebook-documents>`__.
 
 .. _notebook_app:
 
@@ -42,7 +42,7 @@ open notebook documents or shutting down their :ref:`kernels <kernel>`.
 
 **References**: Jupyter Notebook App 
 `in the project homepage <http://ipython.org/notebook.html>`__ and
-`in the official docs <http://ipython.org/ipython-doc/stable/notebook/notebook.html#htmlnotebook>`__.
+`in the official docs <http://jupyter-notebook.readthedocs.org/>`__.
 
 
 .. _kernel:
@@ -65,7 +65,7 @@ CPU and RAM. Note that the RAM is not released until the *kernel* is shut-down.
 See also :ref:`kernel_shutdown`.
 
 **References**: from the official docs
-`Opening Notebooks <http://ipython.org/ipython-doc/stable/notebook/notebook.html#opening-notebooks>`__ and 
+`Opening Notebooks <http://jupyter-notebook.readthedocs.org/en/latest/notebook.html#opening-notebooks>`__ and 
 `Decoupled two-process model <http://ipython.org/ipython-doc/stable/overview.html#ipythonzmq>`__.
 
 .. _dashboard:
@@ -82,7 +82,7 @@ The *Notebook Dashboard* has other features similar to a file manager, namely
 navigating folders and renaming/deleting files.
 
 **References**: from the official docs
-`Opening Notebooks <http://ipython.org/ipython-doc/stable/notebook/notebook.html#opening-notebooks>`__.
+`Opening Notebooks <http://jupyter-notebook.readthedocs.org/en/latest/notebook.html#opening-notebooks>`__.
 
 .. _references:
 
@@ -92,19 +92,20 @@ References
 Official Jupyter Project Pages:
 
 - `Project Jupyter Homepage <https://jupyter.org/>`__
-- `IPython Notebook Homepage <http://ipython.org/notebook.html>`__
+- `Old IPython Notebook Homepage <http://ipython.org/notebook.html>`__
 
 Official Documentation:
 
-- `IPython Notebook Documentation <http://ipython.org/ipython-doc/stable/notebook/index.html>`__
-- `Jupyter Documentation <http://jupyter.readthedocs.org/>`__
+- `Jupyter Notebook Documentation <http://jupyter-notebook.readthedocs.org/>`__
+- `Jupyter Project Documentation <http://jupyter.readthedocs.org/>`__
 
 Other third-parties introductions on using the *Jupyter Notebook App*:
+
+- `Notebook Basics <https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Notebook%20Basics.ipynb>`__, an example notebook
 
 - `Introducing IPython Notebook <http://opentechschool.github.io/python-data-intro/core/notebook.html>`__
 
 - `What is the IPython Notebook? <http://nbviewer.ipython.org/github/jupyter/strata-sv-2015-tutorial/blob/master/00%20-%20Introduction.ipynb>`__
-
 
 ....
 
