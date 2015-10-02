@@ -7,7 +7,7 @@ Jupyter/IPython Notebook Quick Start Guide
 ==========================================
 
 This document is a brief step-by-step tutorial on installing and running
-Jupyter (IPython) notebooks for new users who have no familiarity with python.
+Jupyter (IPython) notebooks on local computer for new users who have no familiarity with python.
 
 Briefly, if someone gave you a notebook to run and you don't know what
 a notebook is, this document is for you.
