@@ -18,7 +18,7 @@ Note that Anaconda currently (mid 2015) still uses the old name
 *IPython Notebook* instead of *Jupyter Notebook App* but the software is the same.
 
 - Download `Continuum Anaconda <https://store.continuum.io/cshop/anaconda/>`_
-  (free version, approx. 300MB), python 2.7, 64 bits.
+  (free version, approx. 300MB), python 3, 64 bits.
 
 - Install it using the default settings for a single user.
 
