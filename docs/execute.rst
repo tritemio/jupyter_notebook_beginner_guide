@@ -123,7 +123,7 @@ Then follow these steps:
   
 More information on editing a notebook:
 
-- `Notebook Basics <https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Notebook%20Basics.ipynb>`_
+- `Notebook Basics <http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb>`_
   (or `alternate link <https://github.com/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb>`_)
 
 .. note::
