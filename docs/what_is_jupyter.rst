@@ -99,9 +99,9 @@ Official Documentation:
 - `Jupyter Notebook Documentation <http://jupyter-notebook.readthedocs.org/>`__
 - `Jupyter Project Documentation <http://jupyter.readthedocs.org/>`__
 
-Other third-parties introductions on using the *Jupyter Notebook App*:
+Other introductory material on using *Jupyter Notebook App*:
 
-- `Notebook Basics <https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Notebook%20Basics.ipynb>`__, an example notebook
+- `Notebook Basics <http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb>`__, an example notebook
 
 - `Introducing IPython Notebook <http://opentechschool.github.io/python-data-intro/core/notebook.html>`__
 
