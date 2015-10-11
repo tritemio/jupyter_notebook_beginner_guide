@@ -1,7 +1,7 @@
 .. _what_is_jupyther:
 
-What is Jupyter Notebook
-========================
+What is the Jupyter Notebook?
+=============================
 
 
 In this page briefly introduce the main componets of the *Jupyter Notebook* 
@@ -99,13 +99,15 @@ Official Documentation:
 - `Jupyter Notebook Documentation <http://jupyter-notebook.readthedocs.org/>`__
 - `Jupyter Project Documentation <http://jupyter.readthedocs.org/>`__
 
-Other introductory material on using *Jupyter Notebook App*:
+See also:
+
+- `What is the IPython Notebook? <http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.ipynb#>`__
 
 - `Notebook Basics <http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb>`__, an example notebook
 
 - `Introducing IPython Notebook <http://opentechschool.github.io/python-data-intro/core/notebook.html>`__
 
-- `What is the IPython Notebook? <http://nbviewer.ipython.org/github/jupyter/strata-sv-2015-tutorial/blob/master/00%20-%20Introduction.ipynb>`__
+
 
 ....
 
