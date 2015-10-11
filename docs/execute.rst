@@ -46,7 +46,7 @@ Change Jupyter Notebook startup folder (Windows)
    <a href="http://localhost:8888/" target="_blank">http://localhost:8888/</a>
 
 
-Change Jupyter Notebook startup folder (OSX)
+Change Jupyter Notebook startup folder (OS X)
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
 To launch :ref:`notebook_app`:
