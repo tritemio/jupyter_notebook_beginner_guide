@@ -2,7 +2,7 @@
 
 What is the Jupyter Notebook?
 =============================
-
+e
 
 In this page briefly introduce the main componets of the *Jupyter Notebook* 
 environment. For a more complete overview see :ref:`references`.
@@ -53,7 +53,7 @@ kernel
 A notebook *kernel* is a "computational engine"
 that executes the code contained in a :ref:`notebook_document`.
 The *ipython kernel*, referenced in this guide, executes python code. 
-Kernels for many other languages exists 
+Kernels for many other languages exist 
 (`official kernels <http://jupyter.readthedocs.org/en/latest/#kernels>`__).
 
 When opening a :ref:`notebook_document`, the associated *kernel* is automatically launched.
