@@ -2,7 +2,6 @@
 
 What is the Jupyter Notebook?
 =============================
-e
 
 In this page briefly introduce the main componets of the *Jupyter Notebook* 
 environment. For a more complete overview see :ref:`references`.
