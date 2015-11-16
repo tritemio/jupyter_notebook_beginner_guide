@@ -20,7 +20,7 @@ When started, the :ref:`notebook_app` can access only files within its start-up 
 (including any sub-folder). If you store the notebook documents in a subfolder
 of your user folder no configuration is necessary.
 
-Otherwise, you need to choose a folder which will contains all the notebooks
+Otherwise, you need to choose a folder which will contain all the notebooks
 and set this as the :ref:`notebook_app` start-up folder.
 
 See below for platform-specific instructions on how to start 
@@ -32,7 +32,7 @@ Change Jupyter Notebook startup folder (Windows)
 - Copy the *IPython Notebook* launcher from the menu to the desktop.
 
 - Right click on the new launcher and change the "Start in" field by pasting
-  the full path of the folder which will contains all the notebooks.
+  the full path of the folder which will contain all the notebooks.
 
 - Double-click on the *IPython Notebook* desktop launcher (icon shows [IPy]) to start the
   :ref:`notebook_app`, which will open in a new browser window (or tab).
@@ -66,7 +66,7 @@ In a nutshell, closing the browser (or the tab) **will not close** the
 :ref:`notebook_app`. To completely shut it down you need to 
 **close the associated terminal**.
 
-More in details,
+In more detail,
 the :ref:`notebook_app` is a server that appears in your browser
 at a default address (*http://localhost:8888*).
 Closing the browser will not shut down the server.
