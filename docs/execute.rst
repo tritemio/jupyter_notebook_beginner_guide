@@ -19,7 +19,6 @@ to select which notebook to open.
 When started, the :ref:`notebook_app` can access only files within its start-up folder
 (including any sub-folder). If you store the notebook documents in a subfolder
 of your user folder no configuration is necessary.
-
 Otherwise, you need to choose a folder which will contain all the notebooks
 and set this as the :ref:`notebook_app` start-up folder.
 
