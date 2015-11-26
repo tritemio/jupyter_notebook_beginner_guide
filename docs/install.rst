@@ -22,6 +22,8 @@ Note that Anaconda currently (mid 2015) still uses the old name
 
 - Install it using the default settings for a single user.
 
+*Official docs:* `Installation: If you are new to Python and Jupyter <https://jupyter.readthedocs.org/en/latest/install.html#new-to-python-and-jupyter>`__.
+
 ....
 
 The *Next* button will bring you to the next section (*Running Jupyter Notebook*).
