@@ -6,11 +6,11 @@ Running the Jupyter Notebook
 Launching *Jupyter Notebook App*
 --------------------------------
 
-The :ref:`notebook_app` can be launched by clicking on the *IPython Notebook*
+The :ref:`notebook_app` can be launched by clicking on the *Jupyter Notebook*
 icon installed by Anaconda in the start menu (Windows) or by typing in
 a terminal (*cmd* on Windows)::
 
-   ipython notebook
+   jupyter notebook
 
 This will launch a new browser window (or a new tab) showing the
 :ref:`dashboard`, a sort of control panel that allows (among other things)
@@ -28,12 +28,12 @@ See below for platform-specific instructions on how to start
 Change Jupyter Notebook startup folder (Windows)
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
-- Copy the *IPython Notebook* launcher from the menu to the desktop.
+- Copy the *Jupyter Notebook* launcher from the menu to the desktop.
 
 - Right click on the new launcher and change the "Start in" field by pasting
   the full path of the folder which will contain all the notebooks.
 
-- Double-click on the *IPython Notebook* desktop launcher (icon shows [IPy]) to start the
+- Double-click on the *Jupyter Notebook* desktop launcher (icon shows [IPy]) to start the
   :ref:`notebook_app`, which will open in a new browser window (or tab).
   Note also that a secondary terminal window (used only for error logging and  
   for shut down) will be also opened.
@@ -54,7 +54,7 @@ To launch :ref:`notebook_app`:
 
 - Enter the startup folder by typing ``cd /some_folder_name``.
 
-- Type ``ipython notebook`` to launch the :ref:`notebook_app`
+- Type ``jupyter notebook`` to launch the :ref:`notebook_app`
   (it will appear in a new browser window or tab).
 
 
