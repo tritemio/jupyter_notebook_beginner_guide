@@ -3,7 +3,7 @@
 What is the Jupyter Notebook?
 =============================
 
-In this page briefly introduce the main componets of the *Jupyter Notebook* 
+In this page briefly introduce the main components of the *Jupyter Notebook* 
 environment. For a more complete overview see :ref:`references`.
 
 .. contents::
