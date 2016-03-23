@@ -135,7 +135,7 @@ More information on editing a notebook:
 
 .. warning::
 
-    Pay attention at opening the **same** notebook document 
+    Pay attention to not open the **same** notebook document 
     on **many tabs**: edits on different tabs can overwrite each other!
     To be safe, make sure you open each notebook document in only one tab.
     If you accidentally open a notebook twice in two different tabs, just 
