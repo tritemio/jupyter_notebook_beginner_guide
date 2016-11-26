@@ -14,7 +14,7 @@ Notebook document
 -----------------
 
 Notebook documents (or "notebooks", all lower case) are documents
-produced by the :ref:`notebook_app` which contain both computer code (e.g. python) 
+produced by the :ref:`notebook_app`, which contain both computer code (e.g. python) 
 and rich text elements (paragraph, equations, figures, links, etc...).
 Notebook documents are both human-readable documents containing the analysis
 description and the results (figures, tables, etc..) as well as executable documents
@@ -32,7 +32,7 @@ editing and running :ref:`notebook documents <notebook_document>`
 via a web browser.
 The *Jupyter Notebook App* can be executed on a local desktop 
 requiring no internet access (as described in this document)
-or installed on a remote server and accessed through the internet.
+or can be installed on a remote server and accessed through the internet.
 
 In addition to displaying/editing/running notebook documents, 
 the *Jupyter Notebook App* has a "Dashboard" (:ref:`dashboard`),
@@ -55,7 +55,7 @@ The *ipython kernel*, referenced in this guide, executes python code.
 Kernels for many other languages exist 
 (`official kernels <http://jupyter.readthedocs.org/en/latest/#kernels>`__).
 
-When opening a :ref:`notebook_document`, the associated *kernel* is automatically launched.
+When you open a :ref:`notebook_document`, the associated *kernel* is automatically launched.
 When the notebook is *executed* (either cell-by-cell or with menu *Cell -> Run All*),
 the *kernel* performs the computation and produces the results.
 Depending on the type of computations, the *kernel* may consume significant
@@ -73,7 +73,7 @@ Notebook Dashboard
 ------------------
 
 The *Notebook Dashboard* is the component which 
-is shown first when launching :ref:`notebook_app`.
+is shown first when you launch :ref:`notebook_app`.
 The *Notebook Dashboard* is mainly used to open :ref:`notebook documents <notebook_document>`, 
 and to manage the running :ref:`kernels <kernel>` (visualize and shutdown).
 
@@ -106,6 +106,7 @@ See also:
 
 - `Introducing IPython Notebook <http://opentechschool.github.io/python-data-intro/core/notebook.html>`__
 
+- `Jupyter Notebook: The Definitive Guide <https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook>`__, an introductory tutorial to Jupyter
 
 
 ....
