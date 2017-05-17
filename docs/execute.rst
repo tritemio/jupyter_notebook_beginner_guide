@@ -94,6 +94,8 @@ and click on menu *File* -> *Close and Halt*. Alternatively, the :ref:`dashboard
 has a tab named *Running* that shows all the running notebooks (i.e. kernels)
 and allows shutting them down (by clicking on a *Shutdown* button).
 
+Does close and halt save the notebook, in case the last save wasn't recent enough? 
+
 Executing a notebook
 --------------------
 
