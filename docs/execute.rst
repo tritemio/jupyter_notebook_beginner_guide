@@ -30,7 +30,7 @@ Change Jupyter Notebook startup folder (Windows)
 
 - Copy the *Jupyter Notebook* launcher from the menu to the desktop.
 
-- Right click on the new launcher and change the "Start in" field by pasting
+- Right click on the new launcher and change the `Target field`, change *%USERPROFILE%* to 
   the full path of the folder which will contain all the notebooks.
 
 - Double-click on the *Jupyter Notebook* desktop launcher (icon shows [IPy]) to start the
