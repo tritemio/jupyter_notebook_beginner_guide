@@ -11,16 +11,14 @@ MS Explorer.
 Step 1: Installation
 --------------------
 
-The easiest way to install the *Jupyter Notebook App* consists in
-installing a scientific python distribution which includes it.
-In this guide, we will use the Anaconda distribution created by Continuum.
-Note that Anaconda currently (mid 2015) still uses the old name
-*IPython Notebook* instead of *Jupyter Notebook App* but the software is the same.
+The easiest way to install the *Jupyter Notebook App* is
+installing a scientific python distribution which also includes 
+scientific python packages. The most common distribution is called **Anaconda**:
 
-- Download `Continuum Anaconda <https://store.continuum.io/cshop/anaconda/>`_
-  (free version, approx. 400MB), python 3, 64 bits.
+- Download `Anaconda Distribution <https://www.anaconda.com/download/>`_
+  (a few 100MB), Python 3, 64 bits.
 
-- Install it using the default settings for a single user.
+- Install it using the default settings for a *single user*.
 
 *Official docs:* `Installation: If you are new to Python and Jupyter <https://jupyter.readthedocs.org/en/latest/install.html#new-to-python-and-jupyter>`__.
 
