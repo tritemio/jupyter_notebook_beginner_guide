@@ -17,10 +17,10 @@ This will launch a new browser window (or a new tab) showing the
 to select which notebook to open.
 
 When started, the :ref:`notebook_app` can access only files within its start-up folder
-(including any sub-folder). If you store the notebook documents in a subfolder
-of your user folder no configuration is necessary.
-Otherwise, you need to choose a folder which will contain all the notebooks
-and set this as the :ref:`notebook_app` start-up folder.
+(including any sub-folder). No configuration is necessary if you place your notebooks 
+in your home folder or subfolders.
+Otherwise, you need to choose a :ref:`notebook_app` start-up folder which will contain 
+all the notebooks.
 
 See below for platform-specific instructions on how to start 
 :ref:`notebook_app` in a specific folder.
@@ -34,18 +34,16 @@ Change Jupyter Notebook startup folder (Windows)
   the full path of the folder which will contain all the notebooks.
 
 - Double-click on the *Jupyter Notebook* desktop launcher (icon shows [IPy]) to start the
-  :ref:`notebook_app`, which will open in a new browser window (or tab).
-  Note also that a secondary terminal window (used only for error logging and  
+  :ref:`notebook_app`. The notebook interface will appear in a new browser window or tab.
+  A secondary terminal window (used only for error logging and  
   for shut down) will be also opened.
-  If only the terminal starts, try opening this address with your browser:
-  |localhost|.
   
 .. |localhost| raw:: html
 
    <a href="http://localhost:8888/" target="_blank">http://localhost:8888/</a>
 
 
-Change Jupyter Notebook startup folder (OS X)
+Change Jupyter Notebook startup folder (Mac OS)
 ''''''''''''''''''''''''''''''''''''''''''''''''
 
 To launch :ref:`notebook_app`:
@@ -55,13 +53,13 @@ To launch :ref:`notebook_app`:
 - Enter the startup folder by typing ``cd /some_folder_name``.
 
 - Type ``jupyter notebook`` to launch the :ref:`notebook_app`
-  (it will appear in a new browser window or tab).
+  The notebook interface will appear in a new browser window or tab.
 
 
 Shut down the *Jupyter Notebook App*
 ------------------------------------
 
-In a nutshell, closing the browser (or the tab) **will not close** the
+Closing the browser (or the tab) **will not close** the
 :ref:`notebook_app`. To completely shut it down you need to 
 **close the associated terminal**.
 
