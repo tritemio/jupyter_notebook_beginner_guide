@@ -100,9 +100,9 @@ Official Documentation:
 
 See also:
 
-- `What is the IPython Notebook? <http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.ipynb#>`__
+- `What is the IPython Notebook? <https://github.com/jupyter/notebook/blob/main/docs/source/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.ipynb>`__
 
-- `Notebook Basics <http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb>`__, an example notebook
+- `Notebook Basics <https://github.com/jupyter/notebook/blob/main/docs/source/examples/Notebook/Notebook%20Basics.ipynb>`__, an example notebook
 
 - `Introducing IPython Notebook <http://opentechschool.github.io/python-data-intro/core/notebook.html>`__
 
